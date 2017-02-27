@@ -1,10 +1,48 @@
 nav > div{
-  background-color: cyan;
+  background-color: orange;
 }
 .navigation{
   text-decoration: none;
-  color:grey;
 }
 .nav-tab a:hover{
   color: hotpink;
+}
+body{
+  background-color: lightgrey;
+}
+.center{
+  position: absolute;
+  width: 400px;
+  height: 50px;
+  top: 10%;
+  left: 42%;
+  margin-left: -50px;
+  margin-top: -25px;
+}
+.center1{
+  position: absolute;
+  width: 400px;
+  height: 200px;
+  top: 20%;
+  left: 27.5%;
+  margin-left: -50px;
+  margin-top: -25px;
+}
+.center2{
+  position: absolute;
+  width: 400px;
+  height: 50px;
+  top: 5%;
+  left: 48%;
+  margin-left: -50px;
+  margin-top: -25px;
+}
+.center3{
+  position: absolute;
+  width: 400px;
+  height: 50px;
+  top: 15%;
+  left: 44%;
+  margin-left: -50px;
+  margin-top: -25px;
 }
