@@ -1,0 +1,10 @@
+nav > div{
+  background-color: cyan;
+}
+.navigation{
+  text-decoration: none;
+  color:grey;
+}
+.nav-tab a:hover{
+  color: hotpink;
+}
