@@ -55,6 +55,15 @@ body{
   margin-left: -50px;
   margin-top: -25px;
 }
+#center5{
+  position: absolute;
+  width: 400px;
+  height: 50px;
+  top: 8%;
+  left: 43%;
+  margin-left: -50px;
+  margin-top: -25px;
+}
 span{
   color: red;
 }
